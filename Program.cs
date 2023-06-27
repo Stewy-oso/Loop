@@ -7,10 +7,14 @@ class Program
         Console.Title = "Loop";
         Console.ForegroundColor = ConsoleColor.DarkCyan;
 
-        for (double i = 10; i > 0; i--)
+        Console.Write("How many numbers do you want?: ");
+
+        int count = Convert.ToInt32(Console.ReadLine());
+
+        for (int i = 1; i <= count; i++)
         {
             double result = Math.Pow(3, i);
-            Console.WriteLine(i);
+            Console.WriteLine(result);
         }
 
         ///Wait Before Closing.
