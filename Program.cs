@@ -7,7 +7,7 @@ class Program
         Console.Title = "Loop";
         Console.ForegroundColor = ConsoleColor.DarkCyan;
 
-        for (int i = 10; i > 0; i--)
+        for (double i = 10; i > 0; i--)
         {
             double result = Math.Pow(3, i);
             Console.WriteLine(i);
