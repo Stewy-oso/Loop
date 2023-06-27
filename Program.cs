@@ -9,6 +9,7 @@ class Program
 
         for (int i = 10; i > 0; i--)
         {
+            double result = Math.Pow(3, i);
             Console.WriteLine(i);
         }
 
