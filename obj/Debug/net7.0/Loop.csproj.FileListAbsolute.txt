@@ -1,0 +1,15 @@
+C:\Users\Bartlomiej J\Desktop\Loop\bin\Debug\net7.0\Loop.exe
+C:\Users\Bartlomiej J\Desktop\Loop\bin\Debug\net7.0\Loop.deps.json
+C:\Users\Bartlomiej J\Desktop\Loop\bin\Debug\net7.0\Loop.runtimeconfig.json
+C:\Users\Bartlomiej J\Desktop\Loop\bin\Debug\net7.0\Loop.dll
+C:\Users\Bartlomiej J\Desktop\Loop\bin\Debug\net7.0\Loop.pdb
+C:\Users\Bartlomiej J\Desktop\Loop\obj\Debug\net7.0\Loop.csproj.AssemblyReference.cache
+C:\Users\Bartlomiej J\Desktop\Loop\obj\Debug\net7.0\Loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bartlomiej J\Desktop\Loop\obj\Debug\net7.0\Loop.AssemblyInfoInputs.cache
+C:\Users\Bartlomiej J\Desktop\Loop\obj\Debug\net7.0\Loop.AssemblyInfo.cs
+C:\Users\Bartlomiej J\Desktop\Loop\obj\Debug\net7.0\Loop.csproj.CoreCompileInputs.cache
+C:\Users\Bartlomiej J\Desktop\Loop\obj\Debug\net7.0\Loop.dll
+C:\Users\Bartlomiej J\Desktop\Loop\obj\Debug\net7.0\refint\Loop.dll
+C:\Users\Bartlomiej J\Desktop\Loop\obj\Debug\net7.0\Loop.pdb
+C:\Users\Bartlomiej J\Desktop\Loop\obj\Debug\net7.0\Loop.genruntimeconfig.cache
+C:\Users\Bartlomiej J\Desktop\Loop\obj\Debug\net7.0\ref\Loop.dll
